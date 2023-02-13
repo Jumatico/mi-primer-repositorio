@@ -1,1 +1,2 @@
 ¡Hola mundo!
+El hola mundo es el inicio de todo lenguaje de programación.
